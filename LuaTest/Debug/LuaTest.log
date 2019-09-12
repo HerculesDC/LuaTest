@@ -1,3 +1,3 @@
 ﻿  Source.cpp
-c:\users\graphic\source\repos\luatest\luatest\source.cpp(5): warning C4101: 'l': unreferenced local variable
-  LuaTest.vcxproj -> C:\Users\graphic\source\repos\LuaTest\Debug\LuaTest.exe
+Source.obj : error LNK2019: unresolved external symbol _luaL_newstate referenced in function _main
+C:\Users\graphic\source\repos\LuaTest\Debug\LuaTest.exe : fatal error LNK1120: 1 unresolved externals
